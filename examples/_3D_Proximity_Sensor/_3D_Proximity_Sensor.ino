@@ -4,8 +4,8 @@
  * @brief 
  *         The program 3D gesture recognition at a distance of 3-dimensional space induction
  *        
- * @n [Get the module here]()
- * @n [Connection and Diagram]()
+ * @n [Get the module here](https://www.dfrobot.com/wiki/index.php?title=3D_Gesture_Sensor_mini_SKU:SEN0202)
+ * @n [Connection and Diagram](https://www.dfrobot.com/wiki/index.php?title=3D_Gesture_Sensor_mini_SKU:SEN0202)
  *
  * @copyright [DFRobot](http://www.dfrobot.com), 2016
  * @copyright GNU Lesser General Public License
