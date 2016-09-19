@@ -5,9 +5,8 @@ Contains the Following:
 
 * Arduino Library & Sample Code
 * Hardware Information:
-1. Schematic <br>
-2. MGC3030 Datasheet <br>
-3. SVG Files <br>
+  1. Schematic <br>
+  2. MGC3030 Datasheet <br>
+  3. SVG Files <br>
 
-* version  V1.0
-* date  2016-09-19
+
